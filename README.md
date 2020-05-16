@@ -1,7 +1,7 @@
-# RESUMEN
+## RESUMEN
 
 ## TODA LA PRACTICA QUE SE ESTUVO DANDO
 
-## En tareas2 no están todos los ejercicios, sino los más complejos que dimos en ese momento.
+## En Tarea_2 no están todos los ejercicios, sino los más complejos que dimos en ese momento.
 
-## En arreglos solo está hasta el nivel 2, más adelante subo el nivel 3.
+## En Arreglos solo está hasta el Nivel 2, más adelante subo el Nivel 3.
