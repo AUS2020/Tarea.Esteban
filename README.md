@@ -1,6 +1,4 @@
-## RESUMEN
-
-## TODA LA PRACTICA QUE SE ESTUVO DANDO
+## RESUMEN: práctica que estuvieron dando los profes.
 
 ## En Tarea_2 no están todos los ejercicios, sino los más complejos que dimos en ese momento.
 
